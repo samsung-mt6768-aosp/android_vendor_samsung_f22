@@ -209,7 +209,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/f22/proprietary/vendor/lib64/gc02m1b_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc02m1b_mipi_raw_tuning.so \
     vendor/samsung/f22/proprietary/vendor/lib64/gc02m1_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc02m1_mipi_raw_IdxMgr.so \
     vendor/samsung/f22/proprietary/vendor/lib64/gc02m1_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc02m1_mipi_raw_tuning.so \
-    vendor/samsung/f22/proprietary/vendor/lib64/hw/audio.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6768.so \
     vendor/samsung/f22/proprietary/vendor/lib64/hw/camera.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.mt6768.so \
     vendor/samsung/f22/proprietary/vendor/lib64/hw/gatekeeper.mt6769t.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.mt6769t.so \
     vendor/samsung/f22/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so \
@@ -314,7 +313,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/f22/proprietary/vendor/lib64/unihal_main@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unihal_main@2.1.so \
     vendor/samsung/f22/proprietary/vendor/lib/gc02m1b_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc02m1b_mipi_raw_tuning.so \
     vendor/samsung/f22/proprietary/vendor/lib/gc02m1_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc02m1_mipi_raw_tuning.so \
-    vendor/samsung/f22/proprietary/vendor/lib/hw/audio.primary.mt6768.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6768.so \
     vendor/samsung/f22/proprietary/vendor/lib/hw/gatekeeper.mt6769t.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.mt6769t.so \
     vendor/samsung/f22/proprietary/vendor/lib/imx258f_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx258f_mipi_raw_tuning.so \
     vendor/samsung/f22/proprietary/vendor/lib/imx355_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx355_mipi_raw_tuning.so \
